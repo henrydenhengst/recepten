@@ -1,4 +1,4 @@
-# Sloppy Joe met bacon en kaas (verbeterde slowcooker versie)
+# Sloppy Joe met bacon en kaas
 
 ## Ingrediënten
 - 500 g half-om-half gehakt  
