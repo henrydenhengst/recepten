@@ -1,6 +1,6 @@
 # Sloppy Joe met bacon en kaas
 
-[Sloppy Joe](sloppy-joe.jpg) 
+![Sloppy Joe](sloppy-joe.jpg) 
 
 ## Ingrediënten
 - 500 g half-om-half gehakt  
