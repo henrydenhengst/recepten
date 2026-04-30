@@ -40,7 +40,7 @@
 - Proef en voeg eventueel extra zout of een klein scheutje azijn toe  
 
 ### 5. Serveren
-- Schep op hamburgerbroodjes  
+- Schep op de kadetjes 
 - Eerst een beetje ijsbergsla (optie)
 - Zilveruitjes of augurkjes (optie)
 - Top met geraspte kaas (optie)
