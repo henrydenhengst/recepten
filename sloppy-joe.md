@@ -1,5 +1,7 @@
 # Sloppy Joe met bacon en kaas
 
+[Sloppy Joe](sloppy-joe.jpg) 
+
 ## Ingrediënten
 - 500 g half-om-half gehakt  
 - 1 ui, fijn gesnipperd  
@@ -11,7 +13,7 @@
 - 1 tl appelazijn  
 - zout en peper  
 - geraspte kaas  
-- 4 hamburgerbroodjes  
+- 4 kadetjes 
 
 ## Instructies
 
@@ -40,4 +42,5 @@
 ### 5. Serveren
 - Schep op hamburgerbroodjes  
 - Eerst een beetje ijsbergsla (optie)
-- Top met geraspte kaas
+- Zilveruitjes of augurkjes (optie)
+- Top met geraspte kaas (optie)
