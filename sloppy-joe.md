@@ -39,4 +39,5 @@
 
 ### 5. Serveren
 - Schep op hamburgerbroodjes  
+- Eerst een beetje ijsbergsla (optie)
 - Top met geraspte kaas
