@@ -15,8 +15,13 @@
 
 ## Instructies
 
-### 1. Voorbereiden (belangrijk)
-- Bak het gehakt rul en bruin in een pan  
+### 1.0 Voorbereiden
+- Snij de spek in blokjes van 1 x 1 cm.
+- Bak de spek uit met een beetje boter
+
+### 1.1 Voorbereiden
+- Bak het gehakt rul en bruin in een pan of Crockpot
+- Snij een ui in stukjes 
 - Voeg de ui toe en bak 2–3 minuten mee  
 - Breng op smaak met zout en peper  
 
