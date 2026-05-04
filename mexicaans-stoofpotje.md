@@ -1,4 +1,4 @@
-# 🌮 Mexicaans Stoofpotje (Slowcooker Editie)
+# 🌮 Mexicaans Stoofpotje
 
 Een rijke, complete maaltijd met een diepe Tex-Mex smaak. Door het gehakt eerst aan te braden, voorkom je een "korrelige" textuur en krijg je een veel vollere saus.
 
