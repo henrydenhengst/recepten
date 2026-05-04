@@ -1,4 +1,4 @@
-# Toegestane Voedingsmiddelen - Cure4Life Programma
+# Toegestane Voedingsmiddelen
 
 Dit overzicht bevat de toegestane ingrediënten en richtlijnen gebaseerd op de persoonlijke voedingswijzers. 
 
