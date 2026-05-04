@@ -1,4 +1,4 @@
-# 🌶️ Chili Con Carne (Slowcooker Editie)
+# 🌶️ Chili Con Carne
 
 Een heerlijke, goedgevulde chili voor 6 personen. Door het vlees en de uien eerst aan te zetten, ontstaat er een diepe basissmaak die perfect samengaat met de verschillende soorten bonen.
 
