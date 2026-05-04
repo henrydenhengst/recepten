@@ -1,4 +1,4 @@
-# 🥘 Stroganoff Stoof (Slowcooker Editie)
+# 🥘 Stroganoff Stoof
 
 Dit recept is geoptimaliseerd voor maximaal smaakbehoud. Door het vlees eerst aan te braden en de augurkjes pas op het eind toe te voegen, blijven alle smaken en texturen behouden.
 
