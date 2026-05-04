@@ -1,4 +1,4 @@
-# 🍗 Ajam Pangang (Slowcooker Editie)
+# 🍗 Ajam Pangang
 
 Een heerlijk Indisch kipgerecht met een volle, zoetzure saus. Door de kip en aromaten eerst even aan te zetten, komen de smaken van de gember en sereh veel beter tot hun recht.
 
