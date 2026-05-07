@@ -1,5 +1,7 @@
 # 🇮🇹 Italiaanse Rundvleesstoof (Ossobuco-stijl - Alcoholvrij)
 
+![Ossobuco alternatief](ossobuco-alternatief.jpg) 
+
 ## Basis informatie
 - **Bereidingstijd:** 20 min voorbereiden + 7-8 uur slowcooker
 - **Porties:** 5-6 personen
